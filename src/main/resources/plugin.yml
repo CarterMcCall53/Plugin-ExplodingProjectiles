@@ -1,0 +1,4 @@
+name: ExplosiveArrow-Plugin
+version: '${version}'
+main: org.tartarsauce.bread.ExplosiveArrowPlugin
+api-version: 1.18
